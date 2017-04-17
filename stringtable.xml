@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Fields_of_Thunder">
+
+	<Key ID="STR_TB_missionTitle_TB_Fields_of_Thunder">
+		<Original>Concrete Jungle</Original>
+		<English>Concrete Jungle</English>
+		<German>Concrete Jungle</German>
+		<Italian>Concrete Jungle</Italian>
+		<Spanish>Concrete Jungle</Spanish>
+		<French>Concrete Jungle</French>
+		<Czech>Concrete Jungle</Czech>
+		<Russian>Concrete Jungle</Russian>
+		<Polish>Concrete Jungle</Polish>
+		<Hungarian>Concrete Jungle</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Fields_of_Thunder">
+		<Original>TacBF A&amp;S[T-10]: Concrete Jungle</Original>
+		<English>TacBF A&amp;S[T-10]: Concrete Jungle</English>
+		<German>TacBF A&amp;S[T-10]: Concrete Jungle</German>
+		<Italian>TacBF A&amp;S[T-10]: Concrete Jungle</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Concrete Jungle</Spanish>
+		<French>TacBF A&amp;S[T-10]: Concrete Jungle</French>
+		<Czech>TacBF A&amp;S[T-10]: Concrete Jungle</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Concrete Jungle</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Concrete Jungle</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Concrete Jungle</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
